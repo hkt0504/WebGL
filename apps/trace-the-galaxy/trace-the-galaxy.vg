@@ -1,0 +1,7 @@
+
+name = Trace The Galaxy
+
+sources = main.js
+sources = shipgen/meshgenerator.js, shipgen/pointeditor.js, shipgen/pointsegmenteditor.js, shipgen/previewwidget.js, shipgen/shapebuilder.js
+sources = shipgen/shapeeditor.js, shipgen/shapewidget.js
+

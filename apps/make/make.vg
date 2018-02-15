@@ -1,0 +1,5 @@
+
+name = vgmake
+
+sources = make.js
+
